@@ -1,0 +1,67 @@
+
+
+body {
+    padding: 0;
+    width: 960px;
+    margin: 0 auto;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #777;
+    background: #777;
+    text-align: center;
+
+}
+
+/*this is for the HEADER, NAV and FOOTER*/
+
+.box1{
+    background: #ebebeb;
+    color: #777;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 8px;
+}
+
+/*this is for the SECTION */
+.box2{
+    background: #ebebeb;
+    color: #777;
+    height: 160px;
+    width: 476px;
+    margin-top: 8px;
+    float: left;
+}
+
+/*this if for ASIDE*/
+.box3{
+    background: #ebebeb;
+    color: #777;
+    height: 160px;
+    width: 476px;
+    margin-top: 8px;
+    float: right;
+}
+
+.article{
+    background: #777;
+    color: #ebebeb;
+    width: 470px;
+    height: 120px;
+    margin: 3px;
+}
+
+.box4{
+    background: #ebebeb;
+    color: #777;
+    height: 30px;
+    width:450px;
+    margin:10px;
+}
+.clearfix:after { 
+    content: "."; 
+    visibility: hidden; 
+    display: block; 
+    height: 0; 
+    clear: both;
+ }
