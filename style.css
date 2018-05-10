@@ -43,6 +43,7 @@ body {
     float: right;
 }
 
+/*this is for ARTICLE*/
 .article{
     background: #777;
     color: #ebebeb;
@@ -50,7 +51,7 @@ body {
     height: 120px;
     margin: 3px;
 }
-
+/*this if for H1,H2,H3 and P*/
 .box4{
     background: #ebebeb;
     color: #777;
